@@ -1,5 +1,2 @@
-tensorflow
 gradio
 numpy
-requests
-setuptools
