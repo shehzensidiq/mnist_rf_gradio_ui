@@ -1,1 +1,1 @@
-web: source setup.sh && python gradio_app.py
+worker: source setup.sh && python gradio_app.py
