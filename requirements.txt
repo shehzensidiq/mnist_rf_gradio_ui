@@ -1,3 +1,5 @@
 gradio
 numpy
 Jinja2
+joblib
+matplotlib
