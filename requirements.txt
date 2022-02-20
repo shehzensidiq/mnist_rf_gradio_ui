@@ -3,3 +3,4 @@ numpy
 Jinja2
 joblib
 matplotlib
+sklearn
