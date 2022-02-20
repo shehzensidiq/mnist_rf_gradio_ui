@@ -1,2 +1,4 @@
 gradio
 numpy
+setuptools
+requests
