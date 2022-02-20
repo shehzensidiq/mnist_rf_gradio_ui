@@ -1,4 +1,3 @@
 gradio
 numpy
-setuptools
-requests
+Jinga2
